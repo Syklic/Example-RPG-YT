@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Test 1"
+config/name="YT RPG Tutorial"
 run/main_scene="res://example_rpg.tscn"
 config/features=PackedStringArray("4.3", "Forward Plus")
 config/icon="res://icon.svg"
