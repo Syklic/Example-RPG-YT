@@ -4,7 +4,7 @@ var cardinal_direction : Vector2 = Vector2.DOWN
 var direction : Vector2 = Vector2.ZERO
 
 @onready var animation_player: AnimationPlayer = $AnimationPlayer
-@onready var sprite: Sprite2D = $Sprite2D
+@onready var sprite: Sprite2D = $PlayerSprite
 @onready var state_machine : PlayerStateMachine = $StateMachine
 
 # Called when the node enters the scene tree for the first time.
